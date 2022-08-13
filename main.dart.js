@@ -67319,7 +67319,7 @@ k=A.bl(A.CL(k,"]",""),m,m,m,m,m,m,m)
 s=b.T(t.w).f
 s=A.lw(A.afs(!0,B.b9,!1,m,n.r,m,m,m,2,A.aeL(m,new A.ht(4,A.uf(30),B.lz),m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,"Nhap so ma ban ko thich",m,m,m,m,!1,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m),!0,m,!0,m,!1,m,A.b([$.ans()],t.VS),m,new A.nS(2,!1,!0),m,m,1,m,m,!1,"\u2022",m,m,new A.a5G(n),m,!1,m,m,B.fr,m,m,m,m,m,m,m,B.b_,m,B.kU,m,B.v2,m),m,s.a.a*0.5)
 r=t.D
-q=A.b([new A.bX(B.fq,A.bl("Tim kiem",m,m,m,m,m,m,m),m),new A.bX(B.fq,A.bl("Fabonacy",m,m,m,m,m,m,m),m),new A.bX(B.fq,A.bl("Giai thua",m,m,m,m,m,m,m),m)],r)
+q=A.b([new A.bX(B.fq,A.bl("Tim kiem",m,m,m,m,m,m,m),m),new A.bX(B.fq,A.bl("Fabonaccy",m,m,m,m,m,m,m),m),new A.bX(B.fq,A.bl("Giai thua",m,m,m,m,m,m,m),m)],r)
 p=n.x
 o=n.w
 p=p===1?A.bl(o,m,m,m,m,A.jY(m,m,B.Fe,m,m,m,m,m,m,m,m,20,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m):A.bl(o,m,m,m,m,A.jY(m,m,B.Ff,m,m,m,m,m,m,m,m,20,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)
