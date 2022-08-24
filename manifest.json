@@ -1,6 +1,6 @@
 {
-    "name": "flutter30days",
-    "short_name": "flutter30days",
+    "name": "amazon_clone",
+    "short_name": "amazon_clone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
