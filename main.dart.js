@@ -37285,7 +37285,7 @@ s=q}while(true)switch(s){case 0:q=3
 n=new A.a7B("",c,b,d,"","","")
 k=t.N
 s=6
-return A.ad(A.aE5(A.zR("http://localhost:5000/api/signup"),B.aH.hM(n.CL()),A.aB(["Content-Type","application/json; charset=UTF-8"],k,k)),$async$rp)
+return A.ad(A.aE5(A.zR("https://minhtan.loca.lt/api/signup"),B.aH.hM(n.CL()),A.aB(["Content-Type","application/json; charset=UTF-8"],k,k)),$async$rp)
 case 6:m=f
 k=m
 switch(k.b){case 200:new A.T1(a).$0()
